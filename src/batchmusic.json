@@ -5,6 +5,7 @@
             "Item": {
               "Artist": {"S": "Iron Maiden"},
               "SongTitle": {"S": "Wasting Love"},
+              "SongTime":{"S": "5:51"},
               "AlbumTitle": {"S": "Fear of the Dark Live"},
               "SongYear": {"S": "1992"}
             }
@@ -15,6 +16,7 @@
             "Item": {
               "Artist": {"S": "Iron Maiden"},
               "SongTitle": {"S": "Weekend Warrior"},
+              "SongTime":{"S": "5:40"},
               "AlbumTitle": {"S": "Fear of the Dark"},
               "SongYear": {"S": "1992"}
             }
@@ -25,6 +27,7 @@
             "Item": {
               "Artist": {"S": "Iron Maiden"},
               "SongTitle": {"S": "Fear of the Dark"},
+              "SongTime":{"S": "7:19"},
               "AlbumTitle": {"S": "Fear of the Dark Tour"},
               "SongYear": {"S": "1992"}
             }
@@ -35,6 +38,7 @@
                 "Item": {
                   "Artist": {"S": "Iron Maiden"},
                   "SongTitle": {"S": "Fear Is the Key"},
+                  "SongTime":{"S": "5:35"},
                   "AlbumTitle": {"S": "Fear of the Dark Live"},
                   "SongYear": {"S": "1992"}
                 }
@@ -45,6 +49,7 @@
                 "Item": {
                   "Artist": {"S": "Iron Maiden"},
                   "SongTitle": {"S": "Chains of Misery"},
+                  "SongTime":{"S": "3:37"},
                   "AlbumTitle": {"S": "Fear of the Dark"},
                   "SongYear": {"S": "1992"}
                 }
@@ -55,6 +60,7 @@
                 "Item": {
                   "Artist": {"S": "Iron Maiden"},
                   "SongTitle": {"S": "The Fugitive"},
+                  "SongTime":{"S": "4:54"},
                   "AlbumTitle": {"S": "Fear of the Dark"},
                   "SongYear": {"S": "1992"}
                 }
@@ -65,6 +71,7 @@
               "Item": {
                 "Artist": {"S": "Iron Maiden"},
                 "SongTitle": {"S": "Be Quick or Be Dead"},
+                "SongTime":{"S": "3:24"},
                 "AlbumTitle": {"S": "Fear of the Dark Live"},
                 "SongYear": {"S": "1992"}
               }
@@ -75,6 +82,7 @@
               "Item": {
                 "Artist": {"S": "Iron Maiden"},
                 "SongTitle": {"S": "Childhood's End"},
+                "SongTime":{"S": "4:41"},
                 "AlbumTitle": {"S": "Fear of the Dark"},
                 "SongYear": {"S": "1992"}
               }
@@ -85,6 +93,7 @@
               "Item": {
                 "Artist": {"S": "Iron Maiden"},
                 "SongTitle": {"S": "The Apparition"},
+                "SongTime":{"S": "3:55"},
                 "AlbumTitle": {"S": "Fear of the Dark"},
                 "SongYear": {"S": "1992"}
               }
