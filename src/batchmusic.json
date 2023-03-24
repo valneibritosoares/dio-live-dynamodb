@@ -4,7 +4,7 @@
             "PutRequest": {
                 "Item": {
                   "Artist": {"S": "Iron Maiden"},
-                  "SongTitle": {"S": "Wasting Love"},
+                  "SongTitle": {"S": "Fear Is the Key"},
                   "AlbumTitle": {"S": "Fear of the Dark Live"},
                   "SongYear": {"S": "1992"}
                 }
@@ -14,7 +14,7 @@
             "PutRequest": {
                 "Item": {
                   "Artist": {"S": "Iron Maiden"},
-                  "SongTitle": {"S": "Weekend Warrior"},
+                  "SongTitle": {"S": "Chains of Misery"},
                   "AlbumTitle": {"S": "Fear of the Dark"},
                   "SongYear": {"S": "1992"}
                 }
@@ -24,11 +24,41 @@
             "PutRequest": {
                 "Item": {
                   "Artist": {"S": "Iron Maiden"},
-                  "SongTitle": {"S": "Fear of the Dark"},
-                  "AlbumTitle": {"S": "Fear of the Dark Tour"},
+                  "SongTitle": {"S": "The Fugitive"},
+                  "AlbumTitle": {"S": "Fear of the Dark"},
                   "SongYear": {"S": "1992"}
                 }
             }
-        }
+        },
+        {
+          "PutRequest": {
+              "Item": {
+                "Artist": {"S": "Iron Maiden"},
+                "SongTitle": {"S": "Be Quick or Be Dead"},
+                "AlbumTitle": {"S": "Fear of the Dark Live"},
+                "SongYear": {"S": "1992"}
+              }
+          }
+      },
+      {
+          "PutRequest": {
+              "Item": {
+                "Artist": {"S": "Iron Maiden"},
+                "SongTitle": {"S": "Childhood's End"},
+                "AlbumTitle": {"S": "Fear of the Dark"},
+                "SongYear": {"S": "1992"}
+              }
+          }
+      },
+      {
+          "PutRequest": {
+              "Item": {
+                "Artist": {"S": "Iron Maiden"},
+                "SongTitle": {"S": "The Apparition"},
+                "AlbumTitle": {"S": "Fear of the Dark"},
+                "SongYear": {"S": "1992"}
+              }
+          }
+      }
       ]
 }
